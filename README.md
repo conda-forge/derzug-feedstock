@@ -148,6 +148,3 @@ Feedstock Maintainers
 
 * [@d-chambers](https://github.com/d-chambers/)
 
-
-<!-- dummy commit to enable rerendering -->
-
