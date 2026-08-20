@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.13"
-  version: "0.1.0"
+  version: "0.1.1"
 
 package:
   name: derzug
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/derzug/derzug-${{ version }}.tar.gz
-  sha256: 661d4f00f65d46b017b5b883ba0f6c12384b7b5d8bd0d71b5d00bb981f62d1a7
+  sha256: 11a224bd2d33f32fa55bc4a5d8cfc4e0a6e00851813cde105bd560f2dbaaed01
 
 build:
   number: 0
